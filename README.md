@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Sou desenvolvedor Full Stack
 - 🌱 Estudando Typescript
 - 📫 Contrate-me: jadsoneder08@gmail.com
 
