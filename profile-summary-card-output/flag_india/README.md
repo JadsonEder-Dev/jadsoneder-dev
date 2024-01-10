@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/JadsonEder-Dev/JadsonEder-dev/main/profile-summary-card-output/flag_india/4-productive-time.svg)
+```
+
+    
